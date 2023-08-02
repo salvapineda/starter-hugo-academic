@@ -5,35 +5,35 @@ avatar_filename: picture.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - My research interests include power system operation and planning
-  - decision-making under uncertainty
-  - bilevel programming
-  - machine learning and statistics.
+  - Power system operation and planning
+  - Decision-making under uncertainty
+  - Bilevel programming
+  - Machine learning and statistics.
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/spineda_uma
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=miAUG_cAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/salvapineda
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/spinedamorente/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Málaga
+    url: https://www.uma.es/?set_language=en
 education:
   courses:
     - course: PhD in Artificial Intelligence
