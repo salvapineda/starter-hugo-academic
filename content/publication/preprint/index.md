@@ -1,65 +1,53 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-links:
-- name: Custom Link
-  url: http://example.org
+title: Learning-based Improvement in State Estimation for Unobservable Systems
+abstract: The task of state estimation faces a major challenge due to the
+  inherent lack of real-time observability, as certain measurements can only be
+  acquired with a delay. As a result, power systems are essentially unobservable
+  in real time, indicating the existence of multiple states that result in
+  identical values for the available measurements. Certain existing approaches
+  utilize historical data to infer the relationship between real-time available
+  measurements and the state. Other learning-based methods aim at generating the
+  pseudo-measurements required to make the system observable. Our paper presents
+  a methodology that utilizes the outcome of an unobservable state estimator to
+  exploit information on the joint probability distribution between real-time
+  available measurements and delayed ones. Through numerical simulations
+  conducted on a realistic electricity network with insufficient real-time
+  measurements, the proposed procedure showcases superior performance compared
+  to existing state forecasting approaches and those relying on inferred
+  pseudo-measurements.
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "3"
+authors:
+  - J.G. De la Varga
+  - S. Pineda
+  - J.M. Morales
+  - Á. Porras
+publication: ""
+featured: false
+tags:
+  - Source Themes
+projects: []
+summary: ""
+url_dataset: "#"
+url_project: ""
+publication_short: ""
+url_source: "#"
+url_video: "#"
+date: 2019-04-07T00:00:00Z
+url_slides: ""
+links:
+  - name: Custom Link
+    url: http://example.org
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+doi: ""
 ---
 
 {{% callout note %}}
