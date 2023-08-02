@@ -1,8 +1,10 @@
 ---
-title: "An example journal article"
+title: "Learning-based Improvement in State Estimation for Unobservable Systems"
 authors:
+- J.G. De la Varga
 - admin
-- Robert Ford
+- J.M. Morales
+- Á. Porras
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
