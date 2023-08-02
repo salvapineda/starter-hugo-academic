@@ -35,16 +35,16 @@ url_project: ""
 publication_short: ""
 url_source: "#"
 url_video: "#"
-date: 2019-04-07T00:00:00Z
+date: 2019-04-07T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
     url: http://example.org
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
+  caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
