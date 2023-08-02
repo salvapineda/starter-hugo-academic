@@ -16,7 +16,7 @@ abstract: The task of state estimation faces a major challenge due to the
   to existing state forecasting approaches and those relying on inferred
   pseudo-measurements.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2307.16822.pdf
 publication_types:
   - "3"
 authors:
@@ -46,7 +46,7 @@ image:
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: ""
 doi: ""
 ---
 
